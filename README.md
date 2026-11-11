@@ -13,8 +13,13 @@ My first repository
 2. FLCL
 3. Cowboy Bebop
 
-#about-me.md
+# about-me.md
 1. Created an md information About me
 
-#favorites/movies.md
-1. Created an md containing my favorite movies and description\
+# favorites/movies.md
+1. Created an md containing my favorite movies and description
+
+
+# Repository Contents
+1. [Contains About Me](about-me.md)
+2. [Contains My favorite Movies](favorites/movies.md)
